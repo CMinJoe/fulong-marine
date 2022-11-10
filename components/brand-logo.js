@@ -90,11 +90,12 @@ const BrandLogo = () => {
         </svg>
       </a>
     </Link>
-    <style jsx>{`
+      <style jsx>{`
       .brand-logo {
         display: inline-block;
         width: 50px;
         height: 50px;
+        margin:0 auto;
         svg {
           width: 100%;
           height: 100%;
